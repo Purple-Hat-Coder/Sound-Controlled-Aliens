@@ -1,0 +1,30 @@
+body{
+    font-family: Geologica;
+    background: #19bd44;
+}
+
+.header_div{
+    color:rgb(255, 255, 255);
+    background: rgb(41, 158, 41);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    font-size: 20px;
+    background: rgb(41, 158, 41);
+    line-height: 3;
+    text-shadow: 5px 5px 5px grey;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
